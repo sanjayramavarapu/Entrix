@@ -6,9 +6,9 @@ Welcome to the **Entrix: Entry and Exit Road Transport Management System**, a co
 | Name                | Role                       |
 |---------------------|---------------------------|
 | [<img src="https://github.com/doondi30.png" width="30"> R Doondi Gangadhar](https://github.com/doondi30) | Frontend Developer |
-| K Hrudayesh Reddy| Quality Assurance Tester |
+| [<img src="https://github.com/hrudayesh43.png" width="30"> K Hrudayesh Reddy](https://github.com/hrudayesh43) | AI/ML Engineer|
 | [<img src="https://github.com/sanjayramavarapu.png" width="30"> R Sanjay ](https://github.com/sanjayramavarapu)        | Project Manager |
-| [<img src="https://github.com/Geethasri16.png" width="30"> P Geethasri](https://github.com/Geethasri16)       | UI/UX Design Lead       |
+| [<img src="https://github.com/Geethasri16.png" width="30"> P Geetha Sri](https://github.com/Geethasri16)       | UI/UX Design Lead       |
 | P Pavankumar       | Backend Development     |
 | K Gnaneswar Rao| Marketing Lead  |
 
